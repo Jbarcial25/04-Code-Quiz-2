@@ -41,7 +41,7 @@ The minimal design allows players to focus on the main objectives of the game!
 If you wish to make a contribution, access my Coding Quiz repo: 
 <br>
 
-[https://github.com/grdnd/coding-quiz](https://github.com/Jbarcial25/04-Code-Quiz-2)
+[https://github.com/Jbarcial25/04-Code-Quiz-2](https://github.com/Jbarcial25/04-Code-Quiz-2)
 <br><br>
 ## Questions ❓
 Feel free to contact me at:
