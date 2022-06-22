@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color: beige;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+button {
+  display: inline;
+  margin: 15px;
+  font-size: 11px;
+  background-color: rgb(180, 228, 225);
+  border-radius: 10px;
+  padding: 15px;
+  color: black;
+  box-shadow: 0 5px 5px rgb(172, 170, 170);
+}
+
+/* This styles the button color when the mouse hovers over*/
+button:hover {
+  background-color: lightskyblue;
+  margin-bottom: 20px;
+}
+
+a:hover {
+  color: turquoise;
+}
+
+.scores {
+  float: top left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.timer {
+  font-size: 15px;
+  float: bottom left;
+  margin-right: 40px;
+  font-weight: bold;
+  color: black;
+  padding: 20px;
+}
+
+.intro {
+  max-width: 700px;
+  margin-left: 20rem;
+  margin-bottom: 50rem;
+}
+
+.start {
+  text-align: center;
+}
+
+/* This styles the Start button*/
+.start button {
+  color: black;
+  background-color: lightcyan;
+}
+
+/* This styles the hide class*/
+.hide {
+  display: none;
+}
+
+.questions{
+  margin: 100px auto 0 auto;
+  max-width: 700px;
+}
+
+.options{
+  text-align: center;
+  display: center;
+}
+
+.options button {
+  display: block;
+}
+
+ol {
+  padding-left: 10px;
+  max-height: 200px;
+}
+
+.note {
+  display: inline-block;
+  font-size: 25px;
+  margin-top: 10px;
+  padding-top: 5px;
+  color: red;
+  font-weight: bold;
+}
+
+#introPrompt {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+}
+
+.highScore{
+  text-align: center;
+  margin: 100px auto 0 auto;
+  max-width: 700px;
+}
+
+#initials {
+  font-size: 20px;
+}
+
+ 
