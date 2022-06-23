@@ -5,11 +5,11 @@ The Coding Quiz is designed to be a mock-up coding assessment that we, as studen
 ## Installation 
     No installation required!
 
-## 🔗 Usage 🔗
+##  Usage 
 ![Coding Quiz](./demo/Untitled_%20Jun%2022%2C%202022%203_44%20PM.gif)
 <br>
 <br>
-🎮 After starting the game from the start screen, users must answer every question within the time limit to win. Players are given a certain amount of time per question but time will also be deducted with every wrong guess. The game is over when all questions are answered correctly, or when the player has run out of time.<br><br> When the game is over players are given an input to enter their initials and save their score. After the player's score is submitted, they will be taken to a scoresheet containing past records of highscores.<br><br>Finally, when scores are recorded players have the option to either clear their highscores history, or go back to the start screen and try to beat their previous highscore!
+ After starting the game from the start screen, users must answer every question within the time limit to win. Players are given a certain amount of time per question but time will also be deducted with every wrong guess. The game is over when all questions are answered correctly, or when the player has run out of time.<br><br> When the game is over players are given an input to enter their initials and save their score. After the player's score is submitted, they will be taken to a scoresheet containing past records of highscores.<br><br>Finally, when scores are recorded players have the option to either clear their highscores history, or go back to the start screen and try to beat their previous highscore!
 <br>
 <br>
 The app is live and can be played on GitHub Pages at: 
@@ -36,14 +36,14 @@ The minimal design allows players to focus on the main objectives of the game!
     THEN I can save my initials and my score 
 <br>
 
-## 🔱 Contributions 🔱
+## Contributions 
 
 If you wish to make a contribution, access my Coding Quiz repo: 
 <br>
 
 [https://github.com/Jbarcial25/04-Code-Quiz-2](https://github.com/Jbarcial25/04-Code-Quiz-2)
 <br><br>
-## Questions ❓
+## Questions 
 Feel free to contact me at:
 
 ✉️: Jbarcial@gmail.com
